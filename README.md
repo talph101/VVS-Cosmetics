@@ -1,0 +1,2 @@
+# VVS-Cosmetics
+JavaScript Project
